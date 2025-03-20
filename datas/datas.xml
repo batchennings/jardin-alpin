@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<main>
+	<jardin>
+		<jardin_nom>Jardin alpin</jardin_nom>
+		<jardin_id>0</jardin_id>
+		<jardin_plan>jardinalpin_plan.swf</jardin_plan>
+		<pano>
+			<pano_name>Panoramique 1</pano_name>
+			<pano_dir>jardinalpin_pano-1.swf</pano_dir>
+			<pano_id>0</pano_id>
+			<hotspot type="fiche">
+				<img>01_le_kiwi001.jpg</img>
+				<titre>Les Kiwis</titre>
+				<titre_latin><![CDATA[<span class="it">Actinidia sinensis</span> - Planch.]]></titre_latin>
+				<texte><![CDATA[Introduits en 1899, <span class="it">ces deux pieds de kiwi mâle et femelle originaires de Chine</span>, sont, avec le pistachier d'Orient, les seuls vestiges de l'époque où le jardin alpin s'appelait encore carré des couches. À propos, saviez-vous que le kiwi doit donc son nom d'oiseau à la langue maori ? Les Néo-Zélandais furent en effet les premier à le cultiver à grande échelle, au début du XXe siècle.]]></texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>02_les_saxifrages004.jpg</img>
+				<titre>Les saxifrages</titre>
+				<titre_latin></titre_latin>
+				<texte>La plupart des saxifrages sont vivaces et forment de nombreux coussins sur les rochers. On trouve les espèces botaniques dans les régions montagneuses de l’hémisphère nord. Il n’existe que peu d’espèces dans l’hémisphère sud où elles sont localisées dans la Cordillère des Andes. Les saxifrages sont parfois appelés « casse-pierre », leur nom dérivant du latin saxum(pierre) et frangere(briser).</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>03_plantes_en_coussinets005.jpg</img>
+				<titre>Les plantes en coussinets</titre>
+				<titre_latin></titre_latin>
+				<texte>Confrontées aux rudes conditions du milieu montagnard, les plantes alpines ont développé un arsenal spécialisé pour résister. Parmi ces adaptations singulières, on peut citer la réduction des organes aériens jusqu’aux formes extrêmes, dites en « coussinets ». Cette anatomie leur permet de capter la chaleur au ras du sol et de la conserver pendant la période hivernale.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>04_epicea_de_serbie007.jpg</img>
+				<titre>L’épicéa de Serbie</titre>
+				<titre_latin>Picea omorika (Pancic) Purk.</titre_latin>
+				<texte>L'épicéa de Serbie est un épicéa rare, endémique de l'Ouest et l'Est de la Serbie. Il  est utilisé dans l'horticulture comme arbre d'ornement dans les grands jardins. Arbre persistant de taille moyenne mesurant 20 à 35 m de hauteur, il atteint exceptionnellement 40 m de haut. Il se caractérise par sa couleur argentée due à la coloration blanche des faces intérieures des aiguilles. </texte>
+				<credits></credits>
+			</hotspot>
+			
+			<hotspot type="transition">
+				<id_destination>1</id_destination>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>05_insectes_pollinisateurs010.jpg</img>
+				<titre>Les insectes pollinisateurs</titre>
+				<titre_latin></titre_latin>
+				<texte>Plantes à fleurs et insectes pollinisateurs sont liés par une relation à bénéfices réciproques. Les insectes collectent du nectar et du pollen pour se nourrir ou nourrir leur progéniture et les fleurs les utilisent pour transporter leur pollen qui ira féconder une autre fleur de la même espèce (fécondation croisée). </texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>06_le_meleze011.jpg</img>
+				<titre>Le Mélèze</titre>
+				<titre_latin>Larix decidua Mill.</titre_latin>
+				<texte>Du latin deciduus : à feuilles caduques (ce qui est le cas de tous les mélèzes), son bois d’excellente qualité est utilisé dans de nombreux domaines : charpentes des maisons de montagne, toitures, mobilier, construction navale. Sa résine, qui servait autrefois à fabriquer des vernis, des laques ou des savons, est utilisée aujourd’hui comme excipient dans la composition de certains médicaments.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>07_la_clematite_montana014.jpg</img>
+				<titre>La Clématite montana</titre>
+				<titre_latin>Clematis montana Buch.-Ham. </titre_latin>
+				<texte>Clematis montana est une plante grimpante très vigoureuse, originaire du centre de la Chine et de l'Himalaya. En mai, la plante se couvre durant trois à quatre semaines d'un nuage de fleurs blanches ou roses de 3 à 5 cm de diamètre, réunies en bouquets généreux sur les pousses de l'année précédente. A planter la tête au soleil et les pieds à l'ombre !</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>08_metasequoia_de_chine016.jpg</img>
+				<titre>Le métaséquoia de Chine</titre>
+				<titre_latin>Metasequoia glyptostroboides Hu et Cheng</titre_latin>
+				<texte>La découverte, en 1943 en Chine, de spécimens vivants de métaséquoias fut un évènement marquant dans l'histoire de la botanique. L'espèce était considérée comme éteinte depuis près de 20 millions d'années ! Sa diffusion, entreprise dès 1948 (année de plantation du spécimen du jardin alpin) fut une heureuse initiative : aujourd'hui les populations naturelles sont en grave danger d'extinction.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>09_plantes_insectivores018.jpg</img>
+				<titre>Les plantes insectivores</titre>
+				<titre_latin></titre_latin>
+				<texte>Présentes partout, sauf aux pôles et dans les déserts, elles poussent dans des milieux pauvres tels que les tourbières. Elles compensent le déficit en sels minéraux du sol par la capture et la digestion d’insectes. Leurres olfactifs ou visuels, pièges à mâchoire ou à glu... Tout est bon pour se procurer ces succulents compléments alimentaires ! 
+</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>10_les_tourbieres020.jpg</img>
+				<titre>Les tourbières</titre>
+				<titre_latin></titre_latin>
+				<texte>Les tourbières sont des écosystèmes constamment inondés, dépourvus d’arbres et offrant une grande luminosité. Malgré ces conditions très favorables à la photosynthèse, la végétation y est réduite. En effet l’eau, présente en permanence, provoque l’asphyxie du sol. Seuls des plantes très spécifiques, telles la sphaigne ou les plantes insectivores, sont capables de pousser sur ce fragile biotope.</texte>
+				<credits></credits>
+			</hotspot>
+		</pano>
+		<pano>
+			<pano_name>Panoramique 2</pano_name>
+			<pano_dir>jardinalpin_pano-2.swf</pano_dir>
+			<pano_id>1</pano_id>
+			<hotspot type="fiche">
+				<img>01_accenteur_mouchet021.jpg</img>
+				<titre>l'Accenteur mouchet </titre>
+				<titre_latin>Prunella modularis L.</titre_latin>
+				<texte>Ce petit passereau, qui vit partout où pousse une végétation touffue et basse entrecoupée d'espaces dégagés, reste généralement caché dans les fourrés, d'où son surnom occasionnel de "traîne-buissons". Sauf lorsqu'il chante ! C'est alors le moment de l'observer, perché bien en vue au sommet d'une branche haute. </texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="transition">
+				<id_destination>2</id_destination>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>02_la_pelouse023.jpg</img>
+				<titre>La pelouse</titre>
+				<titre_latin></titre_latin>
+				<texte>Voulez- vous connaitre le secret de la pelouse du jardin alpin ? Ici pas de désherbant sélectif ni d’engrais chimique. Elle est fertilisée par épandage du compost au début du printemps, quand à la tonte, elle se fait avec une tondeuse à lame hélicoïdale manuelle. Ne parlez pas de mauvaises herbes !! Les pâquerettes trouvent ici leur place.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>03_l_euphorbe_mediterraneenne024.jpg</img>
+				<titre>L'Euphorbe des garrigues</titre>
+				<titre_latin>Euphorbia characias L.</titre_latin>
+				<texte>L'euphorbe des garrigues est une plante de la famille des Euphorbiacées. Son port buissonnant atteint environ 1 m de hauteur et ses feuilles sont d'un vert glauque. Toutes les parties des euphorbes sont toxiques par ingestion, en raison de l’euphorbone, substance contenue dans le latex présent dans ses tiges. Quant à ses graines, elles possèdent de violentes propriétés purgatives.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>cypres_arizona_crop.jpg</img>
+				<titre>Le cyprès d’Arizona ou cyprès bleu</titre>
+				<titre_latin>Cupressus arizonica Greene.</titre_latin>
+				<texte>Le cyprès de l'Arizona est un arbre de la famille des Cupressacées souvent cultivé comme arbre d'ornement. Considéré comme une espèce menacée, il figure dans la liste rouge de l'UICN. Arbre toujours vert, de taille moyenne, son feuillage est formé de rameaux denses, dont la couleur varie d'un gris-vert terne à un bleu-vert glauque brillant. Ses feuilles sont en forme d'écailles de 2 à 5 mm de long. </texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>05_le_charme_pleureur028.jpg</img>
+				<titre>Le charme pleureur</titre>
+				<titre_latin></titre_latin>
+				<texte>Rédaction en cours...</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>06_le_fau_de_verzy029.jpg</img>
+				<titre>le Fau de Verzy</titre>
+				<titre_latin>Fagus sylvatica L. subsp. sylvatica var. sylvatica fa. sylvatica</titre_latin>
+				<texte>Ces hêtres aux tronc fourchus, difformes et boursouflés ont engendré de nombreuses légendes d'esprits malfaisants ou de malédictions. Le secret de leur forme étrange n’a toujours pas été percé, mais elle est probablement due à une mutation génétique. Preuve qu'il ne s'agit pas d'une espèce mais plutôt d'une variété : une fois plantées, les faînes de ces hêtres ne donnent pas systématiquement naissance à des arbres tortueux.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>06_le_meleze011.jpg</img>
+				<titre>le Melèze</titre>
+				<titre_latin>Larix decidua Mill.</titre_latin>
+				<texte>Du latin deciduus : à feuilles caduques (ce qui est le cas de tous les mélèzes), son bois d’excellente qualité est utilisé dans de nombreux domaines : charpentes des maisons de montagne, toitures, mobilier, construction navale. Sa résine, qui servait autrefois à fabriquer des vernis, des laques ou des savons, est utilisée aujourd’hui comme excipient dans la composition de certains médicaments.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="transition">
+				<id_destination>0</id_destination>
+			</hotspot>
+		</pano>
+		<pano>
+			<pano_name>Panoramique 3</pano_name>
+			<pano_dir>jardinalpin_pano-3.swf</pano_dir>
+			<pano_id>2</pano_id>
+			<hotspot type="fiche">
+				<img>cypres_arizona_crop.jpg</img>
+				<titre>Le cyprès d’Arizona ou cyprès bleu</titre>
+				<titre_latin>Cupressus arizonica Greene.</titre_latin>
+				<texte>Le cyprès de l'Arizona est un arbre de la famille des Cupressacées souvent cultivé comme arbre d'ornement. Considéré comme une espèce menacée, il figure dans la liste rouge de l'UICN. Arbre toujours vert, de taille moyenne, son feuillage est formé de rameaux denses, dont la couleur varie d'un gris-vert terne à un bleu-vert glauque brillant. Ses feuilles sont en forme d'écailles de 2 à 5 mm de long. </texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="transition">
+				<id_destination>1</id_destination>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>02_plantes_d_eboulis032.jpg</img>
+				<titre>Les plantes d’éboulis </titre>
+				<titre_latin></titre_latin>
+				<texte>Composé de fragments de roches et de graviers, les éboulis sont de véritables déserts minéraux couvrant les flancs abrupts des montagnes. Sous l’influence des climats alpins, les éboulis offrent un cadre grandiose pour les fleurs qui s’y épanouissent. La végétation, qualifiée de lithophile, y est clairsemée, et présente toutes les caractéristiques des plantes de haute altitude : nanisme, feuillage épais cireux ou velu, abondante floraison vivement colorée.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>03_le_pistachier_d_orient033.jpg</img>
+				<titre>Le pistachier d'Orient</titre>
+				<titre_latin>Pistacia vera L.</titre_latin>
+				<texte>Ce vénérable ancien est le doyen du Jardin des Plantes. Arrivé du Moyen-Orient alors qu'il n'était qu'une petite pistache, il fut planté vers 1700. Qui aurait cru alors qu'il allait être à l'origine d'une véritable révolution de la botanique française ? C'est pourtant grâce à lui que Vaillant démontra avec brio l'existence de la sexualité des plantes. Avec, toutefois, vingt ans de retard sur l'Allemand Camerarius !</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>04_if_du_japon035.jpg</img>
+				<titre>L’If du Japon</titre>
+				<titre_latin>Taxus cuspidata</titre_latin>
+				<texte>L’If du Japon est un arbre de la famille des Taxacées à croissance lente, mais à longévité exceptionnelle (plusieurs centaines d'années, certains auraient plus de 2000 ans). Il est originaire du Japon, Corée et Manchuria où il pousse à 15 mètres de hauteur. C'est un arbre très toxique (branches, écorce, feuilles et graines), tant pour les animaux que pour l'homme. </texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>05_les_amphibiens036.jpg</img>
+				<titre>Les amphibiens</titre>
+				<titre_latin></titre_latin>
+				<texte>Malgré la variété de leurs apparences, les amphibiens partagent de nombreux points communs, qu'ils soient grenouille, crapaud, triton, salamandre ou gymnophione. Tous ont besoin d'eau, tous possèdent des glandes à venin, et tous respirent principalement... par la peau ! À la fois proies et prédateurs, leur rôle écologique est très important. Ce qui ne les empêche malheureusement pas d'être très menacés.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>06_l_arbre_aux_mouchoirs038.jpg</img>
+				<titre>L’arbre aux mouchoirs</titre>
+				<titre_latin>Davidia involucrata Baill.</titre_latin>
+				<texte>L’arbre à pochettes, ou arbre aux mouchoirs, est appelé ainsi à cause des longues bractées ivoires qui accompagnent les fleurs au printemps. Il est utilisé comme bois d’œuvre, en artisanat, en sculpture et pour faire des jouets. Le genre porte le nom du père Armand David, missionnaire lazariste découvreur de nombreuses plantes et d’animaux asiatiques, dont le grand panda.</texte>
+				<credits></credits>
+			</hotspot>
+			<hotspot type="fiche">
+				<img>07_sous_le_bouleau_de_l_himalaya040.jpg</img>
+				<titre>Sous le bouleau de l’Himalaya</titre>
+				<titre_latin></titre_latin>
+				<texte>Le bouleau de l’Himalaya a la particularité de posséder une écorce bien blanche. Son nom d’espèce en latin vient de Jacquemont, voyageur botaniste envoyé par le Jardin des plantes explorer l’Inde du Nord. À ses pieds, sur des massifs d’ardoises (schistes), on trouve de nombreuses espèces de la flore himalayenne comme la délicate primevère à fleurs roses pâles ou blanches (Primula denticulata).</texte>
+				<credits></credits>
+			</hotspot>
+		</pano>
+	</jardin>
+</main>
